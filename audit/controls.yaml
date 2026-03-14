@@ -1,0 +1,7 @@
+controls:
+  - id: META-001
+    title: Key rotation within 24h
+    status: proposed
+  - id: META-002
+    title: Block hardcoded tokens in CI
+    status: proposed
