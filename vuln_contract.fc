@@ -1,0 +1,5 @@
+; demo-only FunC snippet
+;; missing impure modifier (placeholder)
+() recv_internal() {
+  ;; noop
+}
