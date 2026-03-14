@@ -1,0 +1,4 @@
+repo,path,pattern,severity
+demo,.env,OPENAI_API_KEY,HIGH
+demo,.aws/credentials,aws_secret_access_key,CRITICAL
+demo,config.json,privateKey,HIGH
